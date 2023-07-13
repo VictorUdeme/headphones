@@ -94,7 +94,7 @@ body {
     .hamburger{
       display: flex;
     }
-    .menu a {
+    .navbar {
       display: none;
     }
 
